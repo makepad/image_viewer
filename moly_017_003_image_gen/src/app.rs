@@ -94,6 +94,9 @@ live_design! {
                         left = {
                             visible: false
                         }
+                        text_input = {
+                            empty_text: "Describe an image to generate..."
+                        }
                     }
                 }
             }
@@ -154,6 +157,9 @@ live_design! {
                     center = {
                         left = {
                             visible: false
+                        }
+                        text_input = {
+                            empty_text: "Ask about this image..."
                         }
                     }
                 }

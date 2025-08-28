@@ -140,6 +140,9 @@ live_design! {
                         left = {
                             visible: false
                         }
+                        text_input = {
+                            empty_text: "Ask about this image..."
+                        }
                     }
                 }
             }
