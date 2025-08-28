@@ -3,3 +3,4 @@ Cargo.lock
 **/images/
 !/images/
 .DS_Store
+generated_image_*.png
