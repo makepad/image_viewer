@@ -1,0 +1,8 @@
+[package]
+name = "image-viewer-moly-image-query"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+makepad-widgets = { git = "https://github.com/wyeworks/makepad", branch = "moly" }
+moly-kit = { git = "https://github.com/moxin-org/moly.git", features = ["full"], branch = "main" }

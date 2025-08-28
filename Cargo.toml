@@ -18,4 +18,7 @@ members = [
     "step_15",
     "step_16",
     "step_17",
+    "moly_017_001_embedded_chat",
+    "moly_017_002_image_query",
+    "moly_017_003_image_gen",
 ]
