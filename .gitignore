@@ -1,1 +1,5 @@
-target
+.DS_Store
+target/
+.vscode/
+
+generated_image_*.png
